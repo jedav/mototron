@@ -2865,3 +2865,34 @@ will you be free.
   - Unknown,
     often misattrib. to Gautama Buddha
 %
+100% is the wrong reliability target
+for basically everything
+(pacemakers and anti-lock brakes
+being notable exceptions).
+ 
+  - Benjamin Treynor Sloss,
+    Site Reliability Engineering
+%
+Monitoring should never require a human
+to interpret any part of the alerting domain.
+Software should do the interpreting,
+and humans should be notified 
+only when they need to take action.
+ 
+  - Benjamin Treynor Sloss,
+    Site Reliability Engineering
+%
+Roughly 70% of outages
+are due to changes in a live system
+[ie, updates]
+ 
+  - Benjamin Treynor Sloss,
+    Site Reliability Engineering
+%
+Choosing too many indicators
+makes it hard to pay 
+the right level of attention
+to the indicators that matter.
+ 
+  - Site Reliability Engineering
+%
