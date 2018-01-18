@@ -1722,8 +1722,13 @@ We can think up such good arguments
 for convincing ourselves and each other
 of the utterly absurd.
  
-  - Sir C.A.R. Hoare,
-    inventor of quicksort
+Especially don't believe us
+when we promise to repeat
+an earlier success,
+only bigger and better.
+ 
+  - C.A.R. Hoare,
+    Turing Award Lecture
 %
 You should be obsessing about the problem domain...
 not endless software engineering concerns.
@@ -2869,4 +2874,69 @@ will you be free.
  
   - Unknown,
     often misattrib. to Gautama Buddha
+%
+100% is the wrong reliability target
+for basically everything
+(pacemakers and anti-lock brakes
+being notable exceptions).
+ 
+  - Benjamin Treynor Sloss,
+    Site Reliability Engineering
+%
+Monitoring should never require a human
+to interpret any part of the alerting domain.
+Software should do the interpreting,
+and humans should be notified 
+only when they need to take action.
+ 
+  - Benjamin Treynor Sloss,
+    Site Reliability Engineering
+%
+Roughly 70% of outages
+are due to changes in a live system
+[ie, updates]
+ 
+  - Benjamin Treynor Sloss,
+    Site Reliability Engineering
+%
+Choosing too many indicators
+makes it hard to pay 
+the right level of attention
+to the indicators that matter.
+ 
+  - Chris Jones,
+    Site Reliability Engineering
+%
+Automation is a force multiplier,
+not a panacea.
+ 
+  - Niall Murphy,
+    Site Reliability Engineering
+%
+You know what went wrong?
+You let your programmers do things
+which you yourself do not understand.
+ 
+  - Andrew St. Johnston,
+    to C.A.R. Hoare,
+    as relayed in
+    Hoare's Turing Award Lecture
+%
+At first I hoped that
+such a technically unsound project
+would collapse, but I soon realized
+that it was doomed to success.
+Almost anything in software
+can be implemented, sold, and
+even used given enough determination...
+But there is one quality which cannot
+be purchased in this way -
+and that is reliability.
+The price of reliability is
+the pursuit of utmost simplicity.
+It is a price which the very rich
+find most hard to pay.
+ 
+  - C.A.R. Hoare,
+    Turing Award Lecture
 %
