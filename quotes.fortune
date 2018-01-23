@@ -2935,3 +2935,36 @@ find most hard to pay.
   - C.A.R. Hoare,
     Turing Award Lecture
 %
+Every new line of code written is a liability.
+ 
+  - Max Leubbe,
+    Site Reliability Engineering
+%
+Are you playing to avoid a loss,
+or to make a gain?
+%
+Keep a history of outages.
+There is no better way to learn
+than to document what has broken in the past.
+ 
+  - Corey Adam Baye,
+    Site Reliability Engineering
+%
+You can't fix people,
+but you can fix systems and processes.
+ 
+  - John Lunney and Sue Leuder,
+    Site Reliability Engineering
+%
+In any bureaucratic organization,
+there are two kinds of people:
+those devoted to the nominal aims of the organization,
+and those devoted to the organization itself.
+In every case, the second group 
+will gain and keep control of the organization.
+It will write the rules and control promotions.
+ 
+  - Jerry Pournelle,
+    The Iron Law of Bureaucracy,
+    paraphrased
+%
