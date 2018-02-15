@@ -3363,8 +3363,7 @@ who never look backward to their ancestors.
  
   - Edmund Burke
 %
-Even bad apples
-make good liquor.
+Even bad apples make good liquor.
  
   - Amy Stewart,
     The Drunken Botanist
@@ -3379,7 +3378,7 @@ for people who are lost
 without instructions.
  
   - Martin Jambon,
-    30 Nov 17
+    30 Nov 2017
 %
 Successful people are not the most intelligent,
 but those who use their intelligence
@@ -3405,14 +3404,14 @@ Life of a productive programmer:
 [by defective tools and systems]
  
   - Martin Jambon,
-    18 Jan 18
+    18 Jan 2018
 %
 The essence of intelligence
 is that you can become familiar with anything.
 Don't waste your talent.
  
   - Martin Jambon,
-    26 Oct 17
+    26 Oct 2017
 %
 Fast software is a discipline...
 If your code is ten times slower
@@ -3421,5 +3420,35 @@ I think it shows that you do not care,
 not really.
  
   - Daniel Lemire
-    16 Nov 17
+    16 Nov 2017
+%
+The ends dictate the means.
+%
+Seemingly anything will ferment
+if left unattended.
+ 
+  - Amy Stewart,
+    The Drunken Botanist
+%
+The bulk of human knowledge
+is organized around causal,
+not probabilistic relationships,
+and the grammar of probability calculus
+is insufficient for capturing those relationships.
+ 
+  - Judea Pearl,
+    Bayesianism and Causality
+%
+There are generally two ways to write bad tests.
+One is to miss cases and not be rigorous enough.
+This is what happens when developers chase code coverage
+without actually thinking about what they're testing...
+The other is to test too much and be too specific...
+ 
+The code should not follow the tests,
+nor the tests the code.
+They should both follow the design.
+ 
+  - James Koppel,
+    The Design of Software is a Thing Apart
 %
