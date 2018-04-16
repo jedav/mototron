@@ -3657,10 +3657,10 @@ The urgent are not important,
 and the important are never urgent.
  
   - President Dwight Eisenhower,
+    speech at Northwestern,
     1954
 %
-There is no code faster
-than no code.
+There is no code faster than no code.
  
   - Kevlin Henney,
     2001 ACCU Keynote
@@ -3669,8 +3669,7 @@ All problems in computer science
 can be solved by
 another level of indirection,
 except for the problem
-of too many layers
-of indirection.
+of too many layers of indirection.
  
   - Kevlin Henney,
     reply to David Wheeler
@@ -3698,6 +3697,23 @@ to do something reliably.
  
   - Richard Hamming,
     The Art of Doing Science and Engineering
+%
+If you will steal for me, you will steal from me.
+ 
+  - Theodore Roosevelt,
+    Citizenship in a Republic
+%
+The appearance of conforming gets you a long way.
+ 
+  - Richard Hamming,
+    You and Your Research
+%
+"Beta" is synonymous with "buggy",
+"new" with "unproven",
+and "early adopter" with "crash test dummy".
+ 
+  - Hacknot,
+    paraphrased
 %
 There is a long history
 of people wanting to know
@@ -3748,4 +3764,45 @@ seize the pay.
 %
 There is a world of difference
 between loyalty and obedience.
+%
+Every gift carries an obligation.
+%
+Tool development is only useful up to a point,
+after which it becomes a self-indulgent distraction
+from the task at hand.
+ 
+  - Hacknot
+%
+There are no silver bullets,
+be they technological or methodological.
+ 
+  - Hacknot
+%
+But still I am the Cat who walks by himself,
+and all places are alike to me.
+ 
+  - Rudyard Kipling,
+    Just-So Stories
+%
+Always be prepared to admit
+that a decision you've made was incorrect...
+Be open and honest about
+what you do and don't know.
+ 
+  - Hacknot,
+    advice to tech leads
+%
+Sell not virtue to purchase wealth,
+nor liberty to purchase power.
+ 
+  - Benjamin Franklin,
+    Poor Richard's Almanack,
+    1738
+%
+Distrust and caution
+are the parents of security.
+ 
+  - Benjamin Franklin,
+    Poor Richard's Almanack,
+    1733
 %
