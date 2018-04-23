@@ -16,7 +16,7 @@ def put_text_in_box(draw, text, topleft, botright):
   width = botright[0] - topleft[0]
   txtcolor = ImageColor.getrgb("white")
   while fontsize > 10:
-    font = ImageFont.truetype("/usr/fonts/ttf/times.ttf", size=fontsize)
+    font = ImageFont.truetype("/usr/share/fonts/truetype/msttcorefonts/times.ttf", size=fontsize)
     assert font
     (x,y) = draw.multiline_textsize(text, font=font)
     if x > width or y > height:
