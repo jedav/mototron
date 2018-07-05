@@ -3970,3 +3970,14 @@ in himself.
   - Confucius,
     The Doctrine of the Mean
 %
+Any functionality not tested thoroughly with every change
+should not be assumed to work after any change,
+not matter how insignificant or apparently unrelated,
+especially if that change was made in haste.
+%
+Velocity (n):
+The rate at which bugs are being added to a program
+%
+Easier to stay healthy
+than to become healthy.
+%
