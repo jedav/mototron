@@ -3931,8 +3931,7 @@ will bear fruit tomorrow?
 Are these the right primitives for this problem?
 %
 Learn when young,
-act when grown,
-teach when old.
+act when grown.
  
   - Chinese proverb,
     relayed in Monkey,
@@ -3962,6 +3961,7 @@ of its own complexity.
   
   - James Hague
 %
+<<<<<<< HEAD
 In irregular war,
 if two men are together,
 one is being wasted...
@@ -4065,4 +4065,37 @@ he had not learned to command himself.
  
   - General Omar Bradley,
     on Patton
+%
+When the archer misses
+the center of the target,
+he turns round
+and seeks the cause of failure
+in himself.
+ 
+  - Confucius,
+    The Doctrine of the Mean
+%
+Any functionality not tested thoroughly with every change
+should not be assumed to work after any change,
+not matter how insignificant or apparently unrelated,
+especially if that change was made in haste.
+%
+Velocity (n):
+The rate at which bugs are being added to a program
+%
+Easier to stay healthy
+than to become healthy.
+%
+Micro your macro.
+ 
+  - Winter,
+    Starcraft 2 Grandmaster
+%
+Writing a mock for your tests
+is a lot like telling a lie,
+in that you then have to keep telling lies
+to maintain the facade.
+ 
+  - Carolina Zarate,
+    paraphrased
 %
