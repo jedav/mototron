@@ -1733,7 +1733,7 @@ only bigger and better.
 You should be obsessing about the problem domain...
 not endless software engineering concerns.
  
-  - Prog21,
+  - James Hague,
     Don't Think Like a Programmer
 %
 Tick tock.
@@ -3867,4 +3867,235 @@ the atavism of a more ancient ideal.
   - Friedrich Nietzsche,
     Beyond Good and Evil,
     Epigram 149
+%
+If your program doesn't have any bugs,
+it probably doesn't do anything interesting.
+%
+The man who is frank, meticulous, and accommodating
+may be called a gentleman.
+ 
+  - Sayings of Confucius,
+    13.28
+%
+Excess and deficiency are equally at fault.
+ 
+  - Sayings of Confucius,
+    11.16
+%
+Recognize no inescabable necessity.
+ 
+  - Sayings of Confucius,
+    9.4
+%
+Since I have not been employed as an official,
+I know how to do things.
+ 
+  - Sayings of Confucius,
+    9.7
+%
+I have yet to meet a man
+as fond of excellence
+as he is of outward appearances.
+ 
+  - Sayings of Confucius,
+    9.18
+%
+Put loyalty and reliability first.
+Have no friends inferior to yourself in this regard.
+If you have faults do not fear self-improvement.
+ 
+  - Sayings of Confucius,
+    9.25
+%
+Give praise to the day at evening,
+to beer when it is drunk,
+to a man on his funeral pyre,
+to code when it is deprecated.
+ 
+  - Odin,
+    The Hovamol, 81
+    paraphrased
+%
+A man has made at least a start
+on discovering the meaning of human life
+when he plants shade trees
+under which he knows full well
+he will never sit.
+  
+  - Elton Trueblood,
+    The Life We Prize
+%
+What, done today, 
+will bear fruit tomorrow?
+%
+Are these the right primitives for this problem?
+%
+Learn when young,
+act when grown.
+ 
+  - Chinese proverb,
+    relayed in Monkey,
+    Waley's translation
+%
+Heaven favors, where virtue rules.
+ 
+  - Chinese proverb,
+    relayed in Monkey,
+    Waley's translation
+%
+Programming:
+applied math,
+or applied poetry?
+%
+You are probably too young to know,
+but the empire is always in some kind of peril.
+ 
+  - Allan Quatermain,
+    The League of Extraordinary Gentlemen
+%
+Organizational skills beat algorithmic wizardry...
+The number one most important skill
+is how to keep a tangle of features
+from collapsing under the weight
+of its own complexity.
+  
+  - James Hague
+%
+<<<<<<< HEAD
+In irregular war,
+if two men are together,
+one is being wasted...
+Our ideal was to make action
+a series of single combats...
+Our value depended entirely
+on our quality,
+not on our quantity.
+ 
+  - T.E. Lawrence "of Arabia",
+    Anatomy of a Revolt
+%
+The aim [of discipline]
+is to render the unit a unit,
+and the man a type,
+in order that their effort
+should be calculable...
+The deeper the discipline,
+the lower the individual efficiency.
+ 
+  - T.E. Lawrence "of Arabia",
+    Anatomy of a Revolt
+%
+In the last resort we would be compelled
+to the desperate course of blood...
+but as cheaply as possible for ourselves,
+since the Arabs were fighting for freedom,
+a pleasure only to be tasted by a man alive.
+ 
+  - T.E. Lawrence "of Arabia",
+    Anatomy of a Revolt
+%
+The logical end of a war of creeds
+is the final destruction of one.
+ 
+  - T.E. Lawrence "of Arabia",
+    Anatomy of a Revolt
+%
+Even in human organizations,
+the formal hierarchy exists only on paper;
+the real flesh-and-blood organization
+has many inter-part relations
+other than the lines of formal authority.
+ 
+  - Herbert Simon,
+    The Architecture of Complexity
+%
+If there are important systems...
+that are complex without being hierarchic,
+they may to a considerable extent
+escape our observation
+and our understanding.
+ 
+  - Herbert Simon,
+    The Architecture of Complexity
+%
+Most things are only weakly connected
+to most other things;
+for a tolerable description of reality,
+only a tiny fraction of all possible
+interactions need to be taken into account.
+ 
+  - Herbert Simon,
+    The Architecture of Complexity
+%
+Fixed fortifications are monuments
+to the stupidity of man.
+ 
+  - General George Patton
+%
+Never tell people how to do things.
+Tell them what to do,
+and they will surprise you
+with their ingenuity.
+ 
+  - General George Patton,
+    War as I Knew It
+%
+There is a great deal of talk
+about loyalty from the bottom to the top.
+Loyalty from the top down
+is even more necessary,
+and much less prevalent.
+ 
+  - General George Patton,
+    War as I Knew It
+%
+Always do everything you ask
+of those you command.
+ 
+  - General George Patton
+%
+Americans love to fight, traditionally.
+ 
+  - General George Patton,
+    speech to the 3rd Army
+%
+However successful he was
+as a corps commander,
+he had not learned to command himself.
+ 
+  - General Omar Bradley,
+    on Patton
+%
+When the archer misses
+the center of the target,
+he turns round
+and seeks the cause of failure
+in himself.
+ 
+  - Confucius,
+    The Doctrine of the Mean
+%
+Any functionality not tested thoroughly with every change
+should not be assumed to work after any change,
+not matter how insignificant or apparently unrelated,
+especially if that change was made in haste.
+%
+Velocity (n):
+The rate at which bugs are being added to a program
+%
+Easier to stay healthy
+than to become healthy.
+%
+Micro your macro.
+ 
+  - Winter,
+    Starcraft 2 Grandmaster
+%
+Writing a mock for your tests
+is a lot like telling a lie,
+in that you then have to keep telling lies
+to maintain the facade.
+ 
+  - Carolina Zarate,
+    paraphrased
 %
