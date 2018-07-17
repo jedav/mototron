@@ -4099,3 +4099,59 @@ to maintain the facade.
   - Carolina Zarate,
     paraphrased
 %
+Viruses are really hard to kill,
+especially the meme kind.
+ 
+  - Steve Yegge,
+    Good Agile Bad Agile
+%
+The essential prerequisite
+for building an expert system
+is to have an expert.
+ 
+  - Fred Brooks,
+    No Silver Bullet
+%
+Much of the essence
+of building a program
+is in fact the debugging
+of the specification.
+ 
+  - Fred Brooks,
+    No Silver Bullet
+%
+Software entities are more complex
+for their size than perhaps any other human construct,
+because no two parts are alike...
+If they are, we make the two similar parts into one...
+In this respect software systems differ profoundly
+from computers, buildings, or automobiles,
+where repeated elements abound.
+ 
+  - Fred Brooks,
+    No Silver Bullet
+%
+Software people are no alone in facing complexity.
+Physics deals with terribly complex objects...
+The physicist labors on, however, in a firm faith
+that there are unifying principles to be found...
+No such faith comforts the software engineer.
+ 
+  - Fred Brooks,
+    No Silver Bullet
+%
+The reality of software is not embedded in space.
+Hence it has no ready geometric representation.
+ 
+  - Fred Brooks,
+    No Silver Bullet
+%
+Program verification does not mean
+error-proof programs...
+Mathematical proofs can also be faulty...
+Verification might reduce the program-testing load,
+[but] cannot eliminate it.
+ 
+  - Fred Brooks,
+    No Silver Bullet
+%
