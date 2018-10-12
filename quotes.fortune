@@ -273,7 +273,8 @@ Science is the belief in the ignorance of experts.
 What I cannot create, I do not understand.
 Know how to solve every problem that has been solved.
  
-  - Richard Feynman
+  - Richard Feynman,
+    last writings
 %
 If we make good things, it is not only to the credit of science;
 it is also to the credit of the moral choice which led us to good work.
@@ -343,12 +344,6 @@ Truth is much too complicated to allow anything but approximations.
  
   - John von Neumann
 %
-The three great virtues of the programmer are
-laziness, impatience, and hubris.
- 
-  - Larry Wall,
-    creator of perl
-%
 If you get a tough job, one that is hard,
 and you haven’t got a way to make it easy,
 put a lazy man on it, and after 10 days
@@ -403,6 +398,14 @@ the fame of a dead man's deeds.
  
   - Odin,
     The Hovamol, S78
+%
+A little sand has a little sea,
+and small are the minds of men.
+Though all men are not equal in wisdom,
+yet half-wise only are all.
+ 
+  - Odin,
+    The Hovamol, S53
 %
 Away from his arms, in an open field,
 a man should not fare on foot;
@@ -562,10 +565,6 @@ Nothing!
  
   - Richard Hamming
 %
-The individual is foolish, but the species is wise.
- 
-  - Edmund Burke
-%
 The problem with cosmology is that you only have one sample,
 you're supposed to explain how it happened,
 and you haven't any power to conduct experiments.
@@ -704,7 +703,8 @@ Freedom, and futility, were absolute.
 What a man is afraid to do,
 he does while possessed.
  
-  - Keith Johnstone
+  - Keith Johnstone,
+    Impro
 %
 Hope clouds observation.
  
@@ -781,16 +781,9 @@ that browsers need more features, not fewer.
 The nature of the hero is struggle, sacrifice, and tragedy.
 The nature of the divine is ease, laughter, and lightness of feet.
  
-  - Friedrich Nietzsche,
-    Thus Spoke Zarathustra
+  - Friedrich Nietzsche
 %
 Those who cannot compute, program.
-%
-Like soldiers or artists, programmers don't care about the opinions of civilians.
-You're building something intricate and fine.  They'll never understand it.
- 
-  - Orson Scott Card,
-    How Software Companies Die
 %
 You can domesticate programmers the way beekeepers tame bees.
 You can't exactly communicate with them,
@@ -866,16 +859,6 @@ is a symptom of professional immaturity.
  
   - Edsger Djikstra
 %
-There once was a master programmer who wrote unstructured programs.
-A novice programmer, seeking to imitate him, also began to write unstructured
-programs.  When the novice asked the master to evaluate his progress, the
-master criticized him for writing unstructured programs, saying: "What is
-appropriate for the master is not appropriate for the novice.  You must
-understand the Tao before transcending structure."
- 
-  - Geoffrey James,
-    "The Tao of Programming"
-%
 There was a mysterious rite of initiation
 through which almost every member of the team passed.
 The term that the old hands used for this rite was 'signing up.'
@@ -887,10 +870,6 @@ if you had any of these left
  
   - Tracy Kidder,
     "The Soul of a New Machine"
-%
-Not everything worth doing is worth doing well.
- 
-  - Tom West
 %
 To understand a program,
 you must become both the program and the machine.
@@ -1063,24 +1042,6 @@ Exploitation theorems:
   - John Gall,
     General Systemantics
 %
-In the matter of reforming things, as distinct from deforming them,
-there is one plain and simple principle; a principle which will probably be called a paradox.
- 
-There exists in such a case a certain institution or law;
-let us say, for the sake of simplicity, a fence or gate erected across a road.
- 
-The more modern type of reformer goes gaily up to it and says,
-"I don't see the use of this; let us clear it away."
- 
-To which the more intelligent type of reformer will do well to answer:
-"If you don't see the use of it, I certainly won't let you clear it away.
-Go away and think.
-Then, when you can come back and tell me that you do see the use of it,
-I may allow you to destroy it."
- 
-  - G.K. Chesterton,
-    "Chesterton's Fence"
-%
 Once you decide on your occupation,
 you must immerse yourself in your work.
 You have to fall in love with your work.
@@ -1162,7 +1123,7 @@ for nature cannot be fooled.
 The great thing about waiting until the last day to do something
 is that you only have to spend one day on it.
  
-  - Dr. David Brumley
+  - David Brumley
 %
 A human being should be able to change a diaper,
 plan an invasion, butcher a hog, conn a ship,
@@ -1360,9 +1321,6 @@ what they call the bird.
  
   - Richard Feynman
 %
-There are only two hard problems in computer science:
-cache invalidation, naming things, and off-by-one errors.
-%
 There are only two possible errors
 on the road to enlightenment:
 Not beginning,
@@ -1549,7 +1507,7 @@ blame the incentive structure.
     paraphrased
 %
 If you want to get to know truth,
-you often have to flirt with falsehood.
+you often have to entertain falsehood.
 %
 Art is a game and games have their rules.
  
@@ -1666,20 +1624,6 @@ The proof of a system's value is in its existence.
 %
 One can't proceed from the informal
 to the formal by formal means.
- 
-  - Alan Perlis,
-    Epigrams in Programming
-%
-Interfaces keep things tidy,
-but don't accelerate growth.
-Functions do.
- 
-  - Alan Perlis,
-    Epigrams in Programming
-%
-Documentation is like term life insurance;
-it satisfies because almost no one who
-subscribes to it depends on its benefits.
  
   - Alan Perlis,
     Epigrams in Programming
@@ -1842,11 +1786,6 @@ and squeezed into a pattern of systems.
   - Bruce Lee,
     Striking Thoughts
 %
-To seek the meaning of life
-is to mistake the Thing In Itself
-for a symbol;
-for only symbols can have meanings.
-%
 Concentration is the root
 of all the higher abilities in man.
  
@@ -1867,14 +1806,6 @@ and abstract it away from reality itself.
 Thus philosophy begins by saying
 that the world is not a basic fact,
 that its existence can be doubted...
- 
-  - Bruce Lee,
-    Striking Thoughts
-%
-Conditioning obstructs our view of reality.
-We do not see It in its suchness
-because of our indoctrination,
-crooked and twisted.
  
   - Bruce Lee,
     Striking Thoughts
@@ -1936,6 +1867,13 @@ Then automate it.
 Fight the man, not the sword.
  
   - Dr. Kem Fronabarger
+%
+What is steel
+compared to the hand that wields it?
+ 
+  - Thulsa Doom,
+    Conan the Barbarian,
+    1982
 %
 To the average American,
 progress means the winning of the West.
@@ -2041,11 +1979,6 @@ and you will have to fix it.
 and be unable to verify that they've
 done it properly)
 %
-Having a consistent idiom for error-handling
-goes a long way towards writing working software.
- 
-  - Dr. David Brumley
-%
 Below a certain minimum level of complexity,
 you cannot do a certain thing,
 but above this minimum level of complexity
@@ -2113,12 +2046,6 @@ To speed up, slow down.
   - Chuck Norris, to Bruce Lee,
     as relayed in
     The Secret Power Within
-%
-I always believe that the easy way
-is the right way.
- 
-  - Bruce Lee,
-    Tao of Jeet Kune Do
 %
 To live content with small means,
 to seek elegance rather than luxury,
@@ -2627,32 +2554,11 @@ Half-way cultivation runs to ornamentation.
   - Bruce Lee,
     Tao of Jeet Kune Do
 %
-A conditioned mind
-is never a free mind.
- 
-  - Bruce Lee,
-    Tao of Jeet Kune Do
-%
 The point is the doing,
 rather than the accomplishments.
  
   - Bruce Lee,
     Tao of Jeet Kune Do
-%
-Instead of facing computers in their suchness, then,
-most systems of programming accumulate a "fancy mess"
-that distorts and cramps their practitioners
-and distracts them from the actual reality
-of computers, which are simple and direct.
-Instead of going immediately to the heart of things,
-flowery methodologies (organized despair)
-and artificial design patterns
-are ritualistically practiced
-to simulate actually solving the problem.
- 
-  - Bruce Lee,
-    Tao of Jeet Kune Do,
-    recontextualized
 %
 Understanding the problem
 dissolves the problem.
@@ -2689,12 +2595,6 @@ of which you are capable.
 Trust, but verify.
  
   - Russian proverb
-%
-At least if you're hurting,
-you know you're alive.
- 
-  - Sue Davis,
-    22 December 2017
 %
 An eye for an eye
 makes the whole world careful.
@@ -2836,15 +2736,13 @@ who gives all he has, all the time.
 If you are afraid of something,
 seek it out.
 %
-Weaponize everything.
- 
-  - Dwarf Fortress player's motto
-%
 Crude, therefore cost-effective,
 but also side-effective.
 %
 The aim of programming
 is not liberation from programming.
+ 
+  - Cubedrone
 %
 All games are ultimately psychological.
 %
@@ -2879,15 +2777,6 @@ will you be free.
 for basically everything
 (pacemakers and anti-lock brakes
 being notable exceptions).
- 
-  - Benjamin Treynor Sloss,
-    Site Reliability Engineering
-%
-Monitoring should never require a human
-to interpret any part of the alerting domain.
-Software should do the interpreting,
-and humans should be notified 
-only when they need to take action.
  
   - Benjamin Treynor Sloss,
     Site Reliability Engineering
@@ -3114,13 +3003,6 @@ and look for more.
   - Winston Churchill,
     My Early Life
 %
-Now I pity undergraduates,
-when I see what frivolous lives many of them lead
-in the midst of precious fleeting opportunity.
- 
-  - Winston Churchill,
-    My Early Life
-%
 "Just one more"
 is a most powerful lie,
 for both good and ill.
@@ -3267,13 +3149,6 @@ TO THE CRUEL AND UNYIELDING HAND OF NATURE
 %
 What would Peter Jensen do?
 %
-The belief that IT people
-do anything rational
-is irrational.
- 
-  - Dr. David Brumley,
-    5 Feb 2018
-%
 The perfection of a ship's beauty
 is that nothing should be there
 for only beauty's sake.
@@ -3373,13 +3248,6 @@ Always listen, never obey.
   - Martin Jambon,
     Universal Career Advice
 %
-Instructions are optimized
-for people who are lost
-without instructions.
- 
-  - Martin Jambon,
-    30 Nov 2017
-%
 Successful people are not the most intelligent,
 but those who use their intelligence
 for the most critical decisions.
@@ -3465,19 +3333,6 @@ you'll go out of business.
  
   - Paul Graham,
     Beating the Averages
-%
-Programming languages are not just technology,
-but what programmers think in.
-They're half technology, and half religion.
- 
-  - Paul Graham,
-    Beating the Averages
-%
-Programming languages teach you not to want
-what they cannot provide.
- 
-  - Paul Graham,
-    ANSI Common LISP
 %
 Planning is a necessary evil.
 It is a response to risk;
@@ -3925,9 +3780,6 @@ he will never sit.
   - Elton Trueblood,
     The Life We Prize
 %
-What, done today, 
-will bear fruit tomorrow?
-%
 Are these the right primitives for this problem?
 %
 Learn when young,
@@ -4159,12 +4011,6 @@ the more likely he was to do the right thing.
   - Richard Hamming,
     You and Your Research
 %
-Viruses are really hard to kill,
-especially the meme kind.
- 
-  - Steve Yegge,
-    Good Agile Bad Agile
-%
 The essential prerequisite
 for building an expert system
 is to have an expert.
@@ -4214,11 +4060,6 @@ Verification might reduce the program-testing load,
  
   - Fred Brooks,
     No Silver Bullet
-%
-Lord, grant that I may always be right
-for thou knowest I am hard to turn.
- 
-  - The Ulsterman's Prayer
 %
 Philosophers come in two kinds:
 those who produce post-facto
