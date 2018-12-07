@@ -4290,3 +4290,24 @@ knows little of even that.
   - John Stuart Mill,
     On Liberty
 %
+With a sufficient number of users of an API,
+it does not matter what you promise in the contract:
+all observable behaviors of your system
+will be depended on by somebody.
+ 
+  - Hyrum's Law
+%
+Organizations which design systems
+are constrained to produce designs
+which are copies of the communication structure
+of the organization itself.
+ 
+  - Conway's Law,
+    paraphrased
+%
+It always takes longer than you expect,
+even when you take into account Hofstadter's Law.
+ 
+  - Douglas Hofstadter,
+    Hofstadter's Law
+%
